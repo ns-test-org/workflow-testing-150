@@ -45,7 +45,7 @@ export default function TodoApp() {
     <div className="min-h-screen bg-gradient-to-br from-purple-500 via-pink-500 to-orange-500 p-6 flex items-center justify-center">
       <div className="w-full max-w-2xl bg-white rounded-2xl shadow-2xl p-8">
         <h1 className="text-4xl font-bold text-gray-800 mb-8 text-center">
-          My Todo List
+          Get Things Done
         </h1>
         
         {/* Input Section */}
@@ -114,4 +114,5 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
